@@ -70,10 +70,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
 **Je startniveau:** -kies uit zwart, rood óf blauw-
-I really like using Markdown.
+Ik heb nog weinig ervaring dus ik val onder de blauwe piste.
 
 **Je focus:** -kies uit responsive óf surface plane-
-Surface plane
+Ik kies voor Surface plane.
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 https://nl.pinterest.com
