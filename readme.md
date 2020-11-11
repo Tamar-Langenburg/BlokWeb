@@ -76,7 +76,7 @@ Ik heb nog weinig ervaring dus ik val onder de blauwe piste.
 Ik kies voor Surface plane.
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
-https://nl.pinterest.com
+https://www.thereformation.com/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
