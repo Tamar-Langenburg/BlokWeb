@@ -42,7 +42,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-< img src="images
+-screenshot(s) van hoe ver je bent met korte uitleg-
 
 ### Agenda voor meeting
 
@@ -76,9 +76,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s) van de eerste pagina (small screen):**
-<img src="images/refscreenshot1" width="375px"> 
 
+<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
-<img src="images/refscreenshot2" width="375px">
 
+<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
