@@ -1,8 +1,6 @@
 # Procesverslag
 **Auteur:** Tamar Langenburg
 
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
 
 
 ## Bronnenlijst
@@ -69,13 +67,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** 
 Ik heb nog weinig ervaring dus ik val onder de blauwe piste.
 
-**Je focus:** -kies uit responsive óf surface plane-
-Ik kies voor Surface plane.
+**Je focus:** 
+Ik kies voor Surface plane, maar wil het responsive maken als het me lukt.
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** 
 https://www.thereformation.com/
 
 **Screenshot(s) van de eerste pagina (small screen):**
