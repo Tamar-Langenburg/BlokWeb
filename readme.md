@@ -1,4 +1,4 @@
-# Procesverslag
+# Procesverslag Blokweb
 **Auteur:** Tamar Langenburg
 
 
@@ -36,11 +36,11 @@
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Tot nu toe heb ik niet heel veel voortgang gemaakt. Ik ben nu alleen nog aan mijn startpagina begonnen. Ik bleef daar een beetje vast lopen, want ik had moeite met de navigatiebar en kleine details. 
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+-
 
 ### Agenda voor meeting
 
@@ -60,12 +60,12 @@
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+-
 
 
 
 ## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
+
 
 **Je startniveau:** 
 Ik heb nog weinig ervaring dus ik val onder de blauwe piste.
@@ -74,6 +74,7 @@ Ik heb nog weinig ervaring dus ik val onder de blauwe piste.
 Ik kies voor Surface plane, maar wil het responsive maken als het me lukt.
 
 **Je opdracht:** 
+Ik heb voor de website van The Reformation gekozen, omdat ik de vormgeving mooi vind en het lijkt mij een goede uitdaging.
 https://www.thereformation.com/
 
 **Screenshot(s) van de eerste pagina (small screen):**
