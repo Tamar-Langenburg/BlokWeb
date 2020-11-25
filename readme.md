@@ -1,5 +1,7 @@
-# Procesverslag Blokweb
-**Auteur:** Tamar Langenburg
+# Procesverslag
+**Auteur:** -jouw naam-
+
+Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
@@ -36,11 +38,11 @@
 
 ### Stand van zaken
 
-Tot nu toe heb ik niet heel veel voortgang gemaakt. Ik ben nu alleen nog aan mijn startpagina begonnen. Ik bleef daar een beetje vast lopen, want ik had moeite met de navigatiebar en kleine details. 
+-dit ging goed & dit was lastig-
 
 **Screenshot(s):**
 
--
+-screenshot(s) van hoe ver je bent met korte uitleg-
 
 ### Agenda voor meeting
 
@@ -60,22 +62,18 @@ Tot nu toe heb ik niet heel veel voortgang gemaakt. Ik ben nu alleen nog aan mij
 
 ## Breakdownschets (week 1)
 
--
+-uitwerken voor de 1e werkgroep - eind van de eerste week-
 
 
 
 ## Intake (week 1)
+-uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
+**Je startniveau:** -blauw-
 
-**Je startniveau:** 
-Ik heb nog weinig ervaring dus ik val onder de blauwe piste.
+**Je focus:** -surface plane-
 
-**Je focus:** 
-Ik kies voor Surface plane, maar wil het responsive maken als het me lukt.
-
-**Je opdracht:** 
-Ik heb voor de website van The Reformation gekozen, omdat ik de vormgeving mooi vind en het lijkt mij een goede uitdaging.
-https://www.thereformation.com/
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
