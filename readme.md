@@ -1,8 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
-
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
+**Auteur:** Tamar Langenburg
 
 
 ## Bronnenlijst
@@ -38,11 +35,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt het ietsje langer. Wel kom ik er meestal zelf uit als ik iets niet snap.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img scr="breakdownschets">
 
 ### Agenda voor meeting
 
@@ -77,8 +74,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/refscreenshot1" width="375px">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/refscreenshot2" width="375px">
