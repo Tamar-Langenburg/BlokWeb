@@ -39,7 +39,7 @@ Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt 
 
 **Screenshot(s):**
 
-<img scr="breakdownschets">
+<img src="images/versie1.png">
 
 ### Agenda voor meeting
 
@@ -59,18 +59,26 @@ Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt 
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img scr="images/breakdownschets">
 
 
 
 ## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
+
 
 **Je startniveau:** -blauw-
 
-**Je focus:** -surface plane-
+Ik heb nog weinig ervaring. Daarom zou ik mezelf op de blauwe piste plaatsen.
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je focus:** -surface plane en responsive-
+
+Ik wil zoveel mogelijk mezelf pushen en wat ik responsive kan maken.
+
+**Je opdracht:** 
+
+Ik heb voor de website van The Reformation gekozen. Ik vind de vormgeving mooi en dit is voor mij al een goede uitdaging.
+https://www.thereformation.com/
+
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
