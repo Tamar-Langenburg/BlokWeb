@@ -45,6 +45,7 @@ Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt 
 
 
 | Tamar          | Zara.              | Lotte        | Nora             |
+| -------------- | ------------------ | ------------ | ---------------- |
 | navigatiebalk  | Filmpje afspelen   | Hamburgermenu| positioneren     |
 | hamburgermenu  | hamburgermenu      | imageslider  | Flexbox          |
 | flex en grid   | image slider       |              |                  |
