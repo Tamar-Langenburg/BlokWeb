@@ -43,13 +43,12 @@ Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt 
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Tamar          | Zara.              | Lotte        | Nora             |
+| navigatiebalk  | Filmpje afspelen   | Hamburgermenu| positioneren     |
+| hamburgermenu  | hamburgermenu      | imageslider  | Flexbox          |
+| flex en grid   | image slider       |              |                  |
+| uitklap menu   | ...                | ...          | ...              |
 
 ### Verslag van meeting
 
@@ -72,7 +71,7 @@ Ik heb nog weinig ervaring. Daarom zou ik mezelf op de blauwe piste plaatsen.
 
 **Je focus:** -surface plane en responsive-
 
-Ik wil zoveel mogelijk mezelf pushen en wat ik responsive kan maken.
+Ik wil mezelf zoveel mogelijk pushen en kijken hoever ik kom met wat ik responsive kan maken.
 
 **Je opdracht:** 
 
