@@ -27,7 +27,27 @@
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+IK ben nu bezig met de detailpagina en heb al veel vooruitgang kunnen maken met de homepage. Ik maak nog kleine stapjes, maar ik merk dat als ik er even goed voor ga zitten dat ik er uiteindelijk wel kom.
+**Screenshot(s):**
+
+<img src="">
+
+### Agenda voor meeting
+
+
+| Tamar          | Zara.              | Lotte        | Nora             |
+| -------------- | ------------------ | ------------ | ---------------- |
+| navigatiebalk  | style 2e pagina    | margin       | styling          |
+| animatie       | css                | knoppen      | Classes divs     |
+| flex en grid   | ...                | ...          | ...              |
+| ...            | ...                | ...          | ...              |
+
+### Verslag van meeting
+
+IK heb nu een beter idee waar ik mee verder moet. Ik kan nu verder met de bijvoorbeeld de imageslider en navigatiebalk. 
+
 
 
 
@@ -53,7 +73,7 @@ Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt 
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+IK heb nu een beter idee waar ik mee verder moet. Ik kan nu verder met de bijvoorbeeld de imageslider en navigatiebalk. 
 
 
 
