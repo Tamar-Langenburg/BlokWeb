@@ -32,7 +32,8 @@
 IK ben nu bezig met de detailpagina en heb al veel vooruitgang kunnen maken met de homepage. Ik maak nog kleine stapjes, maar ik merk dat als ik er even goed voor ga zitten dat ik er uiteindelijk wel kom.
 **Screenshot(s):**
 
-<img src="">
+<img src="images/screenshot2.png"> <img src="images/screenshot3.png">
+
 
 ### Agenda voor meeting
 
