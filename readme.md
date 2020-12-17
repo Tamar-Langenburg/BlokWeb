@@ -21,7 +21,28 @@
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+
+Ik ben verder gegaan met de detailpagina. ik heb vooral dingen uit geprobeert met de microinteracties. Met de vormgeving ben ik nog niet heel blij, hieraan wil ik nog verder werken. 
+**Screenshot(s):**
+
+<img src="images/screenshot3.png"> <img src="images/screenshotversie3.png">
+
+
+### Agenda voor meeting
+
+
+| Tamar          | Zara.              | Lotte        | Nora             |
+| -------------- | ------------------ | ------------ | ---------------- |
+| vormgeving     | flexbox            | ...          | positionering    |
+| buttons        | image slider       | ...          | ...              |
+| microineracties| ...                | ...          | ...              |
+| ...            | ...                | ...          | ...              |
+
+### Verslag van meeting
+
+
+
 
 
 
