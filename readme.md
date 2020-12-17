@@ -27,6 +27,7 @@ Ik ben verder gegaan met de detailpagina. ik heb vooral dingen uit geprobeert me
 **Screenshot(s):**
 
 <img src="images/screenshot3.png"> <img src="images/screenshotversie3.png">
+<img src="screenshotversie3.png">
 
 
 ### Agenda voor meeting
