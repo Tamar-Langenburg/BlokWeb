@@ -36,7 +36,8 @@ https://codepen.io/shooft/pen/vYGdNXx
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<img src="fed-def1.png"> <img src="fed-def2.png"> <img src="fed-def3.png"> <img src="fed-def4.png">
+
 
 
 
