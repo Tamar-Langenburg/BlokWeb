@@ -9,9 +9,8 @@ https://www.w3schools.com/css/css_navbar_horizontal.asp
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 3. Deze bron heb ik geraadpleegd om de sliders werkend te krijgen.
 https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/
-4. Deze bronnen heb ik geraadpleegd om tekst over een afbeelding te krijgen. (Zoals op de homepage).
+4.Deze bronnen heb ik geraadpleegd om tekst over een afbeelding te krijgen. (Zoals op de homepage).
 https://www.tutorialrepublic.com/faq/how-to-position-text-over-an-image-using-css.php
-
 https://www.w3schools.com/howto/howto_css_image_text.asp
 5. Deze bron heb ik geraadpleegd om de grid op de detailpagina uit te werken.
 https://medium.com/@james.ayres/simple-css-grid-tutorial-for-repeatable-content-on-ecommerce-blog-a5f767d96453
@@ -19,7 +18,6 @@ https://medium.com/@james.ayres/simple-css-grid-tutorial-for-repeatable-content-
 https://www.w3schools.com/howto/howto_css_fixed_menu.asp
 7. Deze bron heb ik geraadpleegd om een grid in de footer en productpagina te maken.
 https://www.w3schools.com/css/css_grid.asp
-
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
 8. Ik heb deze link geraadpleegd om een forum te maken.
 https://www.w3schools.com/css/css_form.aspd
