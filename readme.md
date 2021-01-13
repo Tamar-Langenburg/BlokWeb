@@ -32,11 +32,11 @@ https://codepen.io/shooft/pen/vYGdNXx
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Ik vind dat ik persoonlijk een flinke vooruitgang heb gemaakt in coderen. Ik moet nog veel leren, maar ik snap nu in iedergeval wat ik moet doen en hoe. Het was wel stressvol om het allemaal zelf uit te zoeken en hier heb ik ook zeker van geleerd. Ik ga in de toekomst sneller en meer om hulp vragen. 
 
 **Screenshot(s):**
 
-<img src="fed-def1.png"> <img src="fed-def2.png"> <img src="fed-def3.png"> <img src="fed-def4.png">
+<img src="fed-def1.png" width="375px"> <img src="fed-def2.png" width="375px"> <img src="fed-def3.png" width="375px"> <img src="fed-def4.png" width="375px">
 
 
 
@@ -48,8 +48,8 @@ https://codepen.io/shooft/pen/vYGdNXx
 Ik ben verder gegaan met de detailpagina. Ik heb vooral dingen uit geprobeert met de microinteracties. Met de vormgeving ben ik nog niet heel blij, hieraan wil ik nog verder werken. 
 **Screenshot(s):**
 
-<img src="images/screenshot3.png"> <img src="images/screenshotversie3.png">
-<img src="screenshotversie3.png">
+<img src="images/screenshot3.png" width="375px"> <img src="images/screenshotversie3.png" width="375px">
+<img src="screenshotversie3.png" width="375px">
 
 
 ### Agenda voor meeting
@@ -76,7 +76,7 @@ Ik had een probleem met mijn microinteractie. Dit is na deze meeting gelukkig op
 IK ben nu bezig met de detailpagina en heb al veel vooruitgang kunnen maken met de homepage. Ik maak nog kleine stapjes, maar ik merk dat als ik er even goed voor ga zitten dat ik er uiteindelijk wel kom. Het kost mij gewoon meer tijd vooral omdat ik soms blijf hangen bij de kleine details. 
 **Screenshot(s):**
 
-<img src="images/screenshot2.png"> <img src="images/screenshot3.png">
+<img src="images/screenshot2.png" width="375px"> <img src="images/screenshot3.png" width="375px">
 
 
 ### Agenda voor meeting
@@ -104,7 +104,7 @@ Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt 
 
 **Screenshot(s):**
 
-<img src="images/versie1.png">
+<img src="images/versie1.png" width="375px">
 
 ### Agenda voor meeting
 
@@ -124,7 +124,7 @@ Ik heb nu een beter idee waar ik mee verder moet. Ik kan nu verder met de bijvoo
 
 ## Breakdownschets (week 1)
 
-<img scr="images/breakdownschets">
+<img scr="images/breakdownschets" width="375px">
 
 
 
