@@ -3,9 +3,32 @@
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. Deels geraadpleegd om de navigatie bar te te maken.
+https://www.w3schools.com/css/css_navbar_horizontal.asp
+2. Deze bron heb ik geraadpleegd om uit te zoeken hoe je flexbox gebruikt. 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+3. Deze bron heb ik geraadpleegd om de sliders werkend te krijgen.
+https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/
+4. Deze bronnen heb ik geraadpleegd om tekst over een afbeelding te krijgen. (Zoals op de homepage).
+https://www.tutorialrepublic.com/faq/how-to-position-text-over-an-image-using-css.php
+
+https://www.w3schools.com/howto/howto_css_image_text.asp
+5. Deze bron heb ik geraadpleegd om de grid op de detailpagina uit te werken.
+https://medium.com/@james.ayres/simple-css-grid-tutorial-for-repeatable-content-on-ecommerce-blog-a5f767d96453
+6. Deze bron heb ik geraadpleegd om de navigatie bar mee te laten scrollen.
+https://www.w3schools.com/howto/howto_css_fixed_menu.asp
+7. Deze bron heb ik geraadpleegd om een grid in de footer en productpagina te maken.
+https://www.w3schools.com/css/css_grid.asp
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
+8. Ik heb deze link geraadpleegd om een forum te maken.
+https://www.w3schools.com/css/css_form.aspd
+9. Deze bron heb ik geraadpleegd om de knoppen te stijlen.
+https://www.w3schools.com/css/css3_buttons.asp
+10. Deze site heb ik gebruikt om iconen te verkrijgen.
+https://fontawesome.com/start
+11. Dit is de javascript die ik in mijn website heb is geraadpleegd .
+https://codepen.io/shooft/pen/vYGdNXx
 
 
 
@@ -23,7 +46,7 @@
 
 ### Stand van zaken
 
-Ik ben verder gegaan met de detailpagina. ik heb vooral dingen uit geprobeert met de microinteracties. Met de vormgeving ben ik nog niet heel blij, hieraan wil ik nog verder werken. 
+Ik ben verder gegaan met de detailpagina. Ik heb vooral dingen uit geprobeert met de microinteracties. Met de vormgeving ben ik nog niet heel blij, hieraan wil ik nog verder werken. 
 **Screenshot(s):**
 
 <img src="images/screenshot3.png"> <img src="images/screenshotversie3.png">
@@ -42,7 +65,7 @@ Ik ben verder gegaan met de detailpagina. ik heb vooral dingen uit geprobeert me
 
 ### Verslag van meeting
 
-
+Ik had een probleem met mijn microinteractie. Dit is na deze meeting gelukkig opgelost. Ook heb ik de tip gekregen om zoveel mogelijk classes en divs weg te halen. 
 
 
 
@@ -51,7 +74,7 @@ Ik ben verder gegaan met de detailpagina. ik heb vooral dingen uit geprobeert me
 
 ### Stand van zaken
 
-IK ben nu bezig met de detailpagina en heb al veel vooruitgang kunnen maken met de homepage. Ik maak nog kleine stapjes, maar ik merk dat als ik er even goed voor ga zitten dat ik er uiteindelijk wel kom.
+IK ben nu bezig met de detailpagina en heb al veel vooruitgang kunnen maken met de homepage. Ik maak nog kleine stapjes, maar ik merk dat als ik er even goed voor ga zitten dat ik er uiteindelijk wel kom. Het kost mij gewoon meer tijd vooral omdat ik soms blijf hangen bij de kleine details. 
 **Screenshot(s):**
 
 <img src="images/screenshot2.png"> <img src="images/screenshot3.png">
@@ -69,7 +92,7 @@ IK ben nu bezig met de detailpagina en heb al veel vooruitgang kunnen maken met 
 
 ### Verslag van meeting
 
-IK heb nu een beter idee waar ik mee verder moet. Ik kan nu verder met de bijvoorbeeld de imageslider en navigatiebalk. 
+IK heb nu een beter idee waar ik mee verder moet. Ik kan nu verder met de bijvoorbeeld de imageslider en navigatiebalk. Als het gaat om de animatie denk ik dat ik er nog even mee wacht. Ik ben nu van plan om weer vanaf het begin te beginnen. Dan heb ik meer een overzicht en kan ik makkelijker nieuwe dingen uit proberen.
 
 
 
@@ -78,7 +101,7 @@ IK heb nu een beter idee waar ik mee verder moet. Ik kan nu verder met de bijvoo
 
 ### Stand van zaken
 
-Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt het ietsje langer. Wel kom ik er meestal zelf uit als ik iets niet snap.
+Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt het ietsje langer. Wel kom ik er meestal zelf uit als ik iets niet snap. 
 
 **Screenshot(s):**
 
@@ -96,7 +119,7 @@ Ik ben nu nog bezig met mijn startpagina. Omdat ik niet veel ervaring heb duurt 
 
 ### Verslag van meeting
 
-IK heb nu een beter idee waar ik mee verder moet. Ik kan nu verder met de bijvoorbeeld de imageslider en navigatiebalk. 
+Ik heb nu een beter idee waar ik mee verder moet. Ik kan nu verder met de bijvoorbeeld de imageslider en navigatiebalk. Ook heb ik nu een duidelijker beeld van wat er van mij wordt verwacht.
 
 
 
@@ -119,7 +142,7 @@ Ik wil mezelf zoveel mogelijk pushen en kijken hoever ik kom met wat ik responsi
 
 **Je opdracht:** 
 
-Ik heb voor de website van The Reformation gekozen. Ik vind de vormgeving mooi en dit is voor mij al een goede uitdaging.
+Ik heb voor de website van The Reformation gekozen om na te maken. De vormgeving van de website spreekt mij aan, het is overzichtelijk en simpel opgebouwd ,en dit zal voor mij al een goede uitdaging zijn.
 https://www.thereformation.com/
 
 
